@@ -1,0 +1,5 @@
+flask==0.12
+Flask-WTF==0.14.2
+Flask-SQLAlchemy==2.1
+pymysql==0.7.10
+Flask-Mail
